@@ -1,0 +1,15 @@
+{
+  "name": "backend-class---2-hw",
+  "version": "1.0.0",
+  "description": "Email varification with node mongodb mongose etc",
+  "main": "index.js",
+  "scripts": {
+    ""
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamza Altamas",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
